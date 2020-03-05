@@ -1,5 +1,4 @@
 .profile-pic {
-
     height: 100%
 }
 
@@ -31,11 +30,34 @@ a:hover {
     font-weight: bold;
 }
 
+body {
+    background-image: url("../images/gray-marble.jpg");
+    background-repeat: repeat-y;
+  }
+
 h2 {
     font-size: 32px;
+    color: #919497;
+    border-bottom: 2px solid #ced4da;
+}
+
+form {
+    color: #919497;
 }
 
 .card-body {
     font-family: 'Roboto';
     letter-spacing: .5px;
 }
+
+textarea {
+    max-width: 100%;
+    min-width: 100%;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary {
+    background-color: #919497;
+    border: none;
+}
+
