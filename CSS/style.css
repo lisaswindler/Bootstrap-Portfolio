@@ -32,7 +32,8 @@ a:hover {
 
 body {
     background-image: url("../images/gray-marble.jpg");
-    background-repeat: repeat-y;
+    background-repeat: repeat;
+    background-color: #919497;
   }
 
 h2 {
@@ -48,6 +49,7 @@ form {
 .card-body {
     font-family: 'Roboto';
     letter-spacing: .5px;
+    color: #919497;
 }
 
 textarea {
@@ -61,3 +63,57 @@ textarea {
     border: none;
 }
 
+.link-box1 {
+    background-color: #555555;
+    padding: 15px 0px 0px 0px;
+    height: 50px;
+    top: 45%;
+    position: absolute;
+}
+
+.img {
+    position: relative;   
+}
+
+.textbox1 {
+    background-image: url("../images/cat.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+
+.textbox2 {
+    background-image: url("../images/coding.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+
+.textbox3 {
+    background-image: url("../images/headphones.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+.textbox4 {
+    background-image: url("../images/phone.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+.textbox5 {
+    background-image: url("../images/coffee.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+.textbox6 {
+    background-image: url("../images/iphone.jpg");
+    background-size: cover;
+    padding: 180px 0px 10px 0px;
+}
+
+.port-images {
+    background-color: red;
+}
+/* .caption {
+    position: absolute;
+    top: 73%;
+    background-color: black;
+    z-index: 1;
+} */
