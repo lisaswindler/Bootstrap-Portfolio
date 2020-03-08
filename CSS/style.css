@@ -63,57 +63,10 @@ textarea {
     border: none;
 }
 
-.link-box1 {
+.card-img-overlay {
     background-color: #555555;
-    padding: 15px 0px 0px 0px;
-    height: 50px;
-    top: 45%;
-    position: absolute;
+    bottom: 3%;
+    top: unset;
+    max-width: 98%;
+    margin: auto;
 }
-
-.img {
-    position: relative;   
-}
-
-.textbox1 {
-    background-image: url("../images/cat.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-
-.textbox2 {
-    background-image: url("../images/coding.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-
-.textbox3 {
-    background-image: url("../images/headphones.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-.textbox4 {
-    background-image: url("../images/phone.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-.textbox5 {
-    background-image: url("../images/coffee.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-.textbox6 {
-    background-image: url("../images/iphone.jpg");
-    background-size: cover;
-    padding: 180px 0px 10px 0px;
-}
-
-.port-images {
-    background-color: red;
-}
-/* .caption {
-    position: absolute;
-    top: 73%;
-    background-color: black;
-    z-index: 1;
-} */
